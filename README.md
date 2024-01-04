@@ -24,7 +24,7 @@ This project targets the extraction of color features using SOM, aiming to trans
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/your-username/SOM-Color-Feature-Extraction.git
+    git clone https://github.com/BraulioIAC/SOM-Color-Feature-Extraction.git
     ```
 
 ## Usage
